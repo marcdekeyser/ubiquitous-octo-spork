@@ -1,4 +1,4 @@
 ---
-title: test of the pages functionality
+title: test of GitHub Pages
 ---
 
