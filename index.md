@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: test of the pages functionality
 ---
 
